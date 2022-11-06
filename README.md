@@ -2,7 +2,7 @@
 This is a conversion of QR-Policejob
 
 # To Install
-1. Add `qr-sheriffjob` to your `[framework]` folder or whatever folder contains all of your QR resources
+1. Add `qr-marshaljob` to your `[framework]` folder or whatever folder contains all of your QR resources
 2. Open `qr-core` folder then open the `shared` folder
 3. Edit `jobs.lua` and add the following code below
 
