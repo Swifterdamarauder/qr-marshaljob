@@ -32,3 +32,18 @@ This is a conversion of QR-Policejob
 
 5. Save the edited `jobs.lua` 
 6. Restart your server!
+
+# Marshal Commands\
+```
+/mpobject
+/mcuff
+/mescort
+/mcallsign
+/mclearcasings
+/mjail
+/munjail
+/mclearblood
+/mseizecash
+/msc
+/myakedna
+```
